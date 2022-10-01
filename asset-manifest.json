@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NEAR/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/NEAR/static/js/main.7533bddb.chunk.js",
+    "main.js.map": "/NEAR/static/js/main.7533bddb.chunk.js.map",
+    "runtime-main.js": "/NEAR/static/js/runtime-main.9912f064.js",
+    "runtime-main.js.map": "/NEAR/static/js/runtime-main.9912f064.js.map",
+    "static/css/2.4505be17.chunk.css": "/NEAR/static/css/2.4505be17.chunk.css",
+    "static/js/2.10549295.chunk.js": "/NEAR/static/js/2.10549295.chunk.js",
+    "static/js/2.10549295.chunk.js.map": "/NEAR/static/js/2.10549295.chunk.js.map",
+    "static/js/3.3c030736.chunk.js": "/NEAR/static/js/3.3c030736.chunk.js",
+    "static/js/3.3c030736.chunk.js.map": "/NEAR/static/js/3.3c030736.chunk.js.map",
+    "index.html": "/NEAR/index.html",
+    "static/css/2.4505be17.chunk.css.map": "/NEAR/static/css/2.4505be17.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/NEAR/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.10549295.chunk.js.LICENSE.txt": "/NEAR/static/js/2.10549295.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/NEAR/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpg": "/NEAR/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9912f064.js",
+    "static/css/2.4505be17.chunk.css",
+    "static/js/2.10549295.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.7533bddb.chunk.js"
+  ]
+}
